@@ -43,7 +43,7 @@
                                 <a class="nav-link active" href="/home">Admin Page</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="admin/create">Add New Product</a>
+                                <a class="nav-link" href="/home/admin/create">Add New Product</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/home/admin/orderHistory">Order History</a>
