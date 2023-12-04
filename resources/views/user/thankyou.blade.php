@@ -100,8 +100,8 @@
 
     <div class="container1">
         <div class="bungkus">
-            <img id="top-image" src="{{ URL::asset('storage/asset/logoIcon1.png') }}">
-            <h2>THANK YOU FOR YOUR PURCHASE !</h2>
+            <img id="top-image" src="{{ URL::asset('storage/asset/logoFull.png') }}">
+            <h2>THANK YOU FOR YOUR PURCHASE!</h2>
             <h3>Please wait for our e-mail for your payment confirmation</h3>
 
             <div>

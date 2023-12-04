@@ -297,7 +297,7 @@ class UserController extends Controller
      */
     public function thanks()
     {
-        Mail::to('brianrickybudiman@gmail.com')->send(new SendEmail());
+        Mail::to('hello.ireneparamitha@gmail.com')->send(new SendEmail());
         $userID = Auth::id();
         ShoppingCart::where('idUser', $userID)->delete();
 
