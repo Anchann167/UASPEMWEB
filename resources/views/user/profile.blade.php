@@ -108,7 +108,7 @@
             <h1 class="text-center"><strong>Profile</strong></h1>
             <div class="row justify-content-center">
                 <div>
-                    <img src="{{ URL::asset('storage/asset/2.png') }}" alt="Profile Page" class="rounded-circle"
+                    <img src="{{ URL::asset('storage/asset/logoFull.png') }}" alt="Profile Page" class="rounded-circle"
                         style="width: 250px; height: 200px">
                 </div>
             </div>
@@ -165,7 +165,7 @@
                     </div>
                 </div>
                 <div class="text-center">
-                    <button type="submit" id="profile-button" role="button">Edit</button>
+                    <button type="submit" id="profile-button" role="button">Save</button>
                 </div>
             </form>
         </div>

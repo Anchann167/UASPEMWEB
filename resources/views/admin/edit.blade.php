@@ -124,7 +124,7 @@
                     <input type="file" name="photoProgress[]" class="form-control" id="photo" multiple><br>
                 </div>
                 <div class="button-container-submit mb-5 d-flex justify-content-center">
-                    <button type="submit" class="btn btn-submit">Edit</button>
+                    <button type="submit" class="btn btn-submit">Save</button>
                 </div>
             </form>
         </div>
