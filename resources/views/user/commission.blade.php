@@ -22,7 +22,7 @@
             <div class="container">
                 @auth
                     <a class="navbar-brand" href="/home" style="width: 200px">
-                        <img src="{{ URL::asset('storage/asset/logoIcon1.png') }}" alt="" class="logo-nav" />
+                        <img src="{{ URL::asset('storage/asset/logoIcon1.PNG') }}" alt="" class="logo-nav" />
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -59,7 +59,7 @@
                     </div>
                 @else
                     <a class="navbar-brand" href="/" style="width: 200px">
-                        <img src="{{ URL::asset('storage/asset/logoIcon1.png') }}" alt="" class="logo-nav" />
+                        <img src="{{ URL::asset('storage/asset/logoIcon1.PNG') }}" alt="" class="logo-nav" />
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -114,15 +114,15 @@
         <br>
         <div class="commission-card text-center">
             <div class="card-body">
-                <img src="{{ URL::asset('storage/asset/img_2598.png') }}" class="d-block w-100" alt="Slide 1"
+                <img src="{{ URL::asset('storage/asset/IMG_2598.png') }}" class="d-block w-100" alt="Slide 1"
                     style="max-width: 100%; max-height: 100%;">
             </div><br>
             <div class="card-body">
-                <img src="{{ URL::asset('storage/asset/img_2599.png') }}" class="d-block w-100" alt="Slide 1"
+                <img src="{{ URL::asset('storage/asset/IMG_2599.png') }}" class="d-block w-100" alt="Slide 1"
                     style="max-width: 100%; max-height: 100%;">
             </div><br>
             <div class="card-body">
-                <img src="{{ URL::asset('storage/asset/img_2600.png') }}" class="d-block w-100" alt="Slide 1"
+                <img src="{{ URL::asset('storage/asset/IMG_2600.png') }}" class="d-block w-100" alt="Slide 1"
                     style="max-width: 100%; max-height: 100%;">
             </div><br>
             <h5 class="card-title commission-header"><b>For More Detail On Vgen</b></h5>

@@ -22,7 +22,7 @@
             <div class="container">
                 @auth
                     <a class="navbar-brand" href="/home" style="width: 200px">
-                        <img src="{{ URL::asset('storage/asset/logoIcon1.png') }}" alt="" class="logo-nav" />
+                        <img src="{{ URL::asset('storage/asset/logoIcon1.PNG') }}" alt="" class="logo-nav" />
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -59,7 +59,7 @@
                     </div>
                 @else
                     <a class="navbar-brand" href="/" style="width: 200px">
-                        <img src="{{ URL::asset('storage/asset/logoIcon1.png') }}" alt="" class="logo-nav" />
+                        <img src="{{ URL::asset('storage/asset/logoIcon1.PNG') }}" alt="" class="logo-nav" />
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
